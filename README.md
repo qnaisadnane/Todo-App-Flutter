@@ -11,11 +11,7 @@ This application consumes this Node JS API, and it allows you to create, update,
 ![Screenshot_20240207-120016](https://github.com/qnaisadnane/Todo-App-Flutter/assets/100346910/9b78b12f-6985-4168-b1f6-bdaafae07204)
 ![Screenshot_20240207-120028](https://github.com/qnaisadnane/Todo-App-Flutter/assets/100346910/0d4736c5-5ed0-457a-ba86-d68151001213)
 
+# Author
 
-
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ [@qnaisadnane](https://github.com/qnaisadnane)
 
